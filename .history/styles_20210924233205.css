@@ -1,0 +1,13 @@
+#button{
+    margin:0px;
+}
+/* #h1{
+    color:red;
+} */
+body{
+    margin:0px;
+}
+#whole{
+    display:flex;
+    justify-content:center;
+}

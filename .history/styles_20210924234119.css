@@ -1,0 +1,21 @@
+#button{
+    margin:0px;
+}
+/* #h1{
+    color:red;
+} */
+body{
+    margin:0px;
+}
+#whole{
+    display:flex;
+    justify-content:center;
+}
+/* #sendpart{
+    display:flex;
+    justify-content:center;
+} */
+#input{
+    display:block;
+    width:100%;
+}

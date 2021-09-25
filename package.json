@@ -1,0 +1,10 @@
+{
+    "name": "socket-chat-app",
+    "version": "0.0.1",
+    "description": "first realtime chat app",
+    "dependencies": {
+        "bootstrap": "^5.1.1",
+        "express": "^4.17.1",
+        "socket.io": "^4.2.0"
+    }
+}

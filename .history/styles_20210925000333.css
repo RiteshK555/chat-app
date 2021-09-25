@@ -1,0 +1,30 @@
+#button{
+    margin:0px;
+}
+/* #h1{
+    color:red;
+} */
+body{
+    margin:0px;
+}
+#whole{
+    display:flex;
+    justify-content:center;
+    /* margin:0px; */
+}
+#sendpart{
+    display:flex;
+    position: absolute;
+    bottom:0;
+    /* padding-top:100vh; */
+    /* justify-content:center; */
+}
+#input{
+    display:;
+    /* flex:1; */
+    /* border:none; */
+}
+#button{
+    
+    /* display:flex; */
+}

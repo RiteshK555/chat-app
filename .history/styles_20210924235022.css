@@ -1,0 +1,25 @@
+#button{
+    margin:0px;
+}
+/* #h1{
+    color:red;
+} */
+body{
+    margin:0px;
+}
+#whole{
+    display:flex;
+    justify-content:center;
+}
+#sendpart{
+    display:flex;
+    margin
+    /* justify-content:center; */
+}
+#input{
+    flex:1;
+    /* border:none; */
+}
+#button{
+    /* display:flex; */
+}

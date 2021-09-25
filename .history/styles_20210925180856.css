@@ -1,0 +1,51 @@
+#button{
+    margin:0px;
+}
+/* #h1{
+    color:red;
+} */
+body{
+    margin:0px;
+}
+#whole{
+    /* margin:0px; */
+    display:flex;
+    justify-content:center;
+    /* flex-direction:column; */
+    /* margin:0px; */
+}
+#sendpart{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+}
+#form{
+    display:flex;
+    flex-direction:row;
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    /* align-content:stretch; */
+}
+#input{
+    /* display:inline-flex; */
+    display:flex;
+    flex:1;
+    /* flex-grow: 1; */
+    /* width:95vw; */
+    outline-width: 0;
+    /* align-content: stretch; */
+    /* flex-direction:row;
+    align-content: stretch; */
+    /* width:93vw;
+    height:5vh; */
+    /* flex:1; */
+    /* border:none; */
+}
+#button{
+    display:inline-flex;
+    /* width:6vw;
+    height:5vh; */
+    /* flex:1; */
+}

@@ -1,0 +1,53 @@
+#button{
+    margin:0px;
+}
+/* #h1{
+    color:red;
+} */
+body{
+    margin:0px;
+}
+#whole{
+    /* margin:0px; */
+    display:flex;
+    justify-content:center;
+    /* flex-direction:column; */
+    /* margin:0px; */
+}
+#sendpart{
+    display:flex;
+    /* flex-direction:row; */
+    position: absolute;
+    bottom:0;
+    width: 100vw;
+    /* flex-direction:row;
+    align-content: stretch; */
+    /* align-items:stretch; */
+    /* justify-content:flex-start; */
+    /* width:100vw; */
+    /* padding-top:100vh; */
+    /* justify-content:center; */
+}
+#form{
+    display:flex;
+    flex-direction:row;
+    /* align-content:stretch; */
+}
+#input{
+    display:inline-flex;
+    flex:1;
+    width:95vw;
+    /* align-content: stretch; */
+    /* flex-direction:row;
+    align-content: stretch; */
+    /* width:93vw;
+    height:5vh; */
+    /* flex:1; */
+    /* border:none; */
+}
+#button{
+    display:inline-flex;
+    /* width:6vw;
+    height:5vh; */
+    /* flex:1; */
+}
